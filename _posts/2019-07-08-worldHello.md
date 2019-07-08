@@ -1,7 +1,6 @@
-layout	title	published
+layout	title
 post
-init post 
-true
+hello!
 
 My hello world sheet..
 yada yada yada.
